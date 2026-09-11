@@ -1,33 +1,33 @@
 ---
-title: "{{< var department >}} {{< var number >}}: {{< var name >}}"
-subtitle: "UC Berkeley, {{< var semester >}}"
-listing:
-  - id: schedule
-    template: _extensions/qmd-lab/course-website-ejs/schedule-badge/schedule.ejs
-    contents: scheduled-docs_files/schedule.yml
-  - id: buttons
-    template: assets/buttons.ejs
-    contents: buttons.yml
+title: "Applied & Bayesian Reading Group"
+subtitle: "Department of Statistical Sciences · University of Toronto"
+page-layout: full
+toc: false
 ---
 
-::: {#buttons}
+::: {.hero}
+The Applied & Bayesian Reading Group provides a forum for discussing research in applied statistics, Bayesian methodology, statistical computation, and related areas.
+
+[View Reading List](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0){.btn .btn-primary target="_blank"}
 :::
 
-[UNDER CONSTRUCTION]
+::: {.home-sections}
+::: {.home-section}
+## About
 
-
-::: {.callout-note title="Welcome to Week 1 of Dept 999"}
+The group offers a shared space to engage thoughtfully with current research, exchange perspectives, and develop ideas across applied and Bayesian statistics.
 :::
 
-::: {.callout-note title="Welcome to Week 2"}
-Things are picking up now.
+::: {.home-section}
+## Format
+
+Details about the meeting format will be posted here when available.
 :::
 
-## Schedule
+::: {.home-section}
+## Schedule and readings
 
-Here we use Quarto's EJS templating.
-
-
-::: {#schedule}
+The [schedule](schedule.qmd) and [reading materials](readings.qmd) will be updated as the group progresses.
+:::
 :::
 

@@ -1,41 +1,37 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  site-url: https://berkeley-cdss.github.io/course-site-quarto/
-  sidebar:
-    style: docked
-    title: "{{< var department-abbrev >}} {{< var number >}}"
-    logo: assets/stat_bear.png
-    logo-alt: "UC Berkeley Statistics logo"
+  title: "Applied & Bayesian Reading Group"
+  site-url: "https://user-jiyichen.github.io/UofT-DoSS-Reading-Group/"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: readings.qmd
+        text: Reading Materials
+      - href: "https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0"
+        text: Reading List
+        target: _blank
     tools:
       - icon: github
-        href: https://github.com/berkeley-cdss/course-site-quarto
-        aria-label: GitHub
-    contents:
-      - href: index.qmd
-        text: Home / Schedule
-      - href: syllabus.qmd
-        text: Syllabus
-      - href: staff.qmd
-        text: Staff
-      - href: calendar.qmd
-        text: Calendar
-      - section: "Units"
-        contents:
-          - units/unit1.qmd
-          - units/unit2.ipynb
-          - units/unit3.qmd
-      - href: data.qmd
-        text: Datasets
-      - href: license.qmd
-        text: License
-          
+        href: "https://github.com/user-jiyichen/UofT-DoSS-Reading-Group"
+        aria-label: "GitHub repository"
+        target: _blank
+  page-footer:
+    center: |
+      Applied & Bayesian Reading Group · Department of Statistical Sciences · University of Toronto
+
+      <span class="design-credit">Website design inspired by the [UC Berkeley STAT 298 course website](https://stat298.stat.berkeley.edu/fall-2025-010/){target="_blank"}. Design inspiration only; this site is not affiliated with UC Berkeley.</span>
 
 format:
   html:
     theme: cosmo
     css: assets/styles.css
     toc: true
-    include-in-header:
-      file: siteimprove.html
+    link-external-newwindow: true
+    anchor-sections: true
