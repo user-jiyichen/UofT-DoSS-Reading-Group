@@ -126,6 +126,17 @@ h2 {
 
 .design-credit {
   font-size: 0.82rem;
+} 
+
+.design-credit a,
+.design-credit a:visited {
+  color: var(--page-muted);
+  text-decoration: underline;
+}
+
+.design-credit a:hover,
+.design-credit a:focus {
+  color: var(--uoft-blue-dark);
 }
 
 @media (max-width: 767.98px) {
