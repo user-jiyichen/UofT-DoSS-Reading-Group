@@ -6,7 +6,7 @@ toc: false
 ---
 
 ::: {.hero}
-The Applied & Bayesian Reading Group provides a forum for discussing research in applied statistics, Bayesian methodology, statistical computation, and related areas.
+This is the webpage for the Applied & Bayesian Reading Group.
 
 [View Reading List](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0){.btn .btn-primary target="_blank"}
 :::
@@ -15,7 +15,7 @@ The Applied & Bayesian Reading Group provides a forum for discussing research in
 ::: {.home-section}
 ## About
 
-The group offers a shared space to engage thoughtfully with current research, exchange perspectives, and develop ideas across applied and Bayesian statistics.
+The group offers a shared cozy space to engage thoughtfully with current research and exchange ideas across applied and Bayesian statistics.
 :::
 
 ::: {.home-section}
