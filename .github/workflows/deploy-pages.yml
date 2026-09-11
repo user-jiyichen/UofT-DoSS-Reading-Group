@@ -27,10 +27,6 @@ jobs:
       - name: Configure GitHub Pages
         id: pages
         uses: actions/configure-pages@v5
-        with:
-          # Create the Pages site on the first deployment instead of failing when
-          # the Pages API has not yet been enabled for this repository.
-          enablement: true
 
       - name: Render website
         run: quarto render
