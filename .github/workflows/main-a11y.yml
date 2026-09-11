@@ -16,8 +16,6 @@ jobs:
     steps:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
   axe-audit-render-from-main:
     needs: ensure-pages-enabled
