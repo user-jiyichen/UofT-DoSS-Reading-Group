@@ -1,0 +1,29 @@
+name: Accessibility Checks (main)
+
+on:
+  push:
+    branches-ignore:
+      - gh-pages
+  workflow_dispatch:
+
+jobs:
+  ensure-pages-enabled:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+  axe-audit-render-from-main:
+    needs: ensure-pages-enabled
+    uses: berkeley-cdss/course-site-actions/.github/workflows/quarto-a11y.yml@main
+    with:
+      site_subdir: ${{ github.event.repository.name }}
+    permissions:
+      contents: write
+      pages: read
