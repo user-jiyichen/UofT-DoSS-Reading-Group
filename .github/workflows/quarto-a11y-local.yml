@@ -43,7 +43,9 @@ jobs:
           to: html 
 
       - name: Install Axe and Server
-        run: npm install -g @axe-core/cli http-server wait-on
+        run: |
+          npm install -g @axe-core/cli http-server wait-on browser-driver-manager
+          npx browser-driver-manager install chrome
 
       - name: Set Production URL
         env:
