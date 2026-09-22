@@ -1,12 +1,12 @@
 ---
-title: "Applied & Bayesian Methodology Reading Group"
+title: "Statistical Methodology Reading Group"
 subtitle: "Department of Statistical Sciences · University of Toronto"
 page-layout: full
 toc: false
 ---
 
 ::: {.hero}
-This is the webpage for the Methodology Reading Group hosted in the Department of Statistical Sciences, University of Toronto.
+This is the webpage for the Applied & Bayesian Methodology Reading Group hosted in the Department of Statistical Sciences, University of Toronto.
 
 [View Reading List](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0){.btn .btn-primary target="_blank"}
 :::
