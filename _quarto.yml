@@ -14,17 +14,19 @@ website:
         text: Schedule
       - href: readings.qmd
         text: Reading Materials
-      - href: "https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0"
-        text: Reading List
-        target: _blank
+
     tools:
       - icon: github
         href: "https://github.com/user-jiyichen/UofT-DoSS-Reading-Group"
         aria-label: "GitHub repository"
         target: _blank
+      - icon: calendar  # Alternatively: calendar, list-task, or file-earmark-spreadsheet
+        href: "https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650"
+        aria-label: "Schedule Spreadsheet"
+        target: _blank
   page-footer:
     center: |
-      Applied & Bayesian Reading Group · Department of Statistical Sciences · University of Toronto
+      Statistical Methodology Reading Group · Department of Statistical Sciences · University of Toronto
 
       <span class="design-credit">Website design inspired by the [UC Berkeley STAT 298 course website](https://stat298.stat.berkeley.edu/fall-2025-010/){target="_blank"}. Design inspiration only; this site is not affiliated with UC Berkeley.</span>
 
