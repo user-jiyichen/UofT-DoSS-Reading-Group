@@ -6,9 +6,9 @@ toc: false
 ---
 
 ::: {.hero}
-This is the webpage for the Statistical Methodology Reading Group hosted in the Department of Statistical Sciences, University of Toronto.
+This is the webpage for the Statistical Methodology Reading Group, hosted in the Department of Statistical Sciences at the University of Toronto.
 
-[View Reading List Spreadsheet](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650){.btn .btn-primary target="_blank"}
+[View Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.home-sections}
@@ -26,7 +26,7 @@ Details about the meeting format will be posted here when available.
 ::: {.home-section}
 ## Schedule and readings
 
-Weekly meeting every Friday from 4 p.m. to 5 p.m. The [schedule](schedule.qmd) and [reading materials](readings.qmd) will be updated as the group progresses.
+We meet weekly on Fridays from 4 p.m. to 5 p.m. The [schedule](schedule.qmd) and [reading materials](readings.qmd) will be updated as the group progresses.
 :::
 :::
 
