@@ -6,17 +6,16 @@ toc: false
 ---
 
 ::: {.hero}
-This is the webpage for the Applied & Bayesian Methodology Reading Group hosted in the Department of Statistical Sciences, University of Toronto.
+This is the webpage for the Statistical Methodology Reading Group hosted in the Department of Statistical Sciences, University of Toronto.
 
-[View Reading List](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0){.btn .btn-primary target="_blank"}
+[View Reading List Spreadsheet](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.home-sections}
 ::: {.home-section}
 ## About
 
-The group offers a shared cozy space to engage thoughtfully with current research and exchange ideas across applied and Bayesian statistics.
-:::
+An informal channel for discussing literature and exchanging ideas in (applied and Bayesian) statistical methodology. Open to all graduate students, postdocs, and faculty.:::
 
 ::: {.home-section}
 ## Format
@@ -27,7 +26,7 @@ Details about the meeting format will be posted here when available.
 ::: {.home-section}
 ## Schedule and readings
 
-The [schedule](schedule.qmd) and [reading materials](readings.qmd) will be updated as the group progresses.
+Weekly meeting every Friday from 4 p.m. to 5 p.m. The [schedule](schedule.qmd) and [reading materials](readings.qmd) will be updated as the group progresses.
 :::
 :::
 
