@@ -8,14 +8,15 @@ toc: false
 ::: {.hero}
 This is the webpage for the Statistical Methodology Reading Group, hosted in the Department of Statistical Sciences at the University of Toronto.
 
-[View Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650){.btn .btn-primary target="_blank"}
+[View Schedule](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.home-sections}
 ::: {.home-section}
 ## About
 
-An informal channel for discussing literature and exchanging ideas in (applied and Bayesian) statistical methodology. Open to all graduate students, postdocs, and faculty.:::
+An informal channel for discussing literature and exchanging ideas in (applied and Bayesian) statistical methodology. Open to all graduate students, postdocs, and faculty.
+:::
 
 ::: {.home-section}
 ## Format
