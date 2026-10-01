@@ -2,17 +2,15 @@
 title: "Reading Materials"
 ---
 
-Reading materials will be added as the term progresses.
+Readings are recorded below as the term progresses. Proposed future topics are maintained in the [schedule spreadsheet](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650){.btn .btn-outline-primary target="_blank"}.
 
-[View complete reading list](https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=0#gid=0){.btn .btn-outline-primary target="_blank"}
-
-## Topic / Week
+## Week 1
 
 ### Main readings
 
--
+- [Slides] 1-30 (https://cweniger.github.io/teaching-2608-IAIFI/lecture1.html) by Christoph Weniger
 
 ### Optional readings
 
--
+- 
 
