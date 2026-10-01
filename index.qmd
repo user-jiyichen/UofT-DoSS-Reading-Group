@@ -1,5 +1,5 @@
 ---
-title: "Statistical Methodology Reading Group"
+title: "DoSS Reading Group"
 subtitle: "Department of Statistical Sciences · University of Toronto"
 page-layout: full
 toc: false
