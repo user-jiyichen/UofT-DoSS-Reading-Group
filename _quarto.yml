@@ -10,19 +10,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: schedule.qmd
-        text: Schedule
       - href: readings.qmd
-        text: Reading Materials
-
+        text: Reading
+      - href: "https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650"
+        text: Schedule
     tools:
       - icon: github
         href: "https://github.com/user-jiyichen/UofT-DoSS-Reading-Group"
         aria-label: "GitHub repository"
-        target: _blank
-      - icon: calendar  # Alternatively: calendar, list-task, or file-earmark-spreadsheet
-        href: "https://docs.google.com/spreadsheets/d/1TjVcgiL5OHDxMNK1HZgJJDFR3zyxfBesKZMlADuHpG8/edit?gid=1599692650#gid=1599692650"
-        aria-label: "Schedule Spreadsheet"
         target: _blank
   page-footer:
     center: |
