@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Statistical Methodology Reading Group"
+  title: "DoSS Reading Group"
   site-url: "https://user-jiyichen.github.io/UofT-DoSS-Reading-Group/"
   navbar:
     background: primary
@@ -21,7 +21,7 @@ website:
         target: _blank
   page-footer:
     center: |
-      Statistical Methodology Reading Group · Department of Statistical Sciences · University of Toronto
+      DoSS Reading Group · Department of Statistical Sciences · University of Toronto
 
       <span class="design-credit">Website design inspired by the [UC Berkeley STAT 298 course website](https://stat298.stat.berkeley.edu/fall-2025-010/){target="_blank"}. Design inspiration only; this site is not affiliated with UC Berkeley.</span>
 
