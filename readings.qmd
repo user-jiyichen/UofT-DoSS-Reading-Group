@@ -8,9 +8,10 @@ Readings are recorded below as the term progresses. Proposed future topics are m
 
 ### Main readings
 
-- [Slides] 1-30 (https://cweniger.github.io/teaching-2608-IAIFI/lecture1.html) by Christoph Weniger
+- [ABI and Neural SBI](https://cweniger.github.io/teaching-2608-IAIFI/lecture1.html) by Christoph Weniger
 
 ### Optional readings
 
-- 
-
+- [SBI Diagnostics, Sequential Methods, and Scale](https://cweniger.github.io/teaching-2608-IAIFI/lecture2.html)
+- [The Frontier of Simulation-based Inference](https://www.pnas.org/doi/10.1073/pnas.1912789117)
+- [Simulation-based Inference: A Practical Guide](https://arxiv.org/pdf/2508.12939)
