@@ -8,7 +8,7 @@ Readings are recorded below as the term progresses.
 
 ### Main readings
 
-- [ABI and Neural SBI](https://cweniger.github.io/teaching-2608-IAIFI/lecture1.html) by Christoph Weniger
+- [ABI and Neural SBI IAIFI summer school slides](https://cweniger.github.io/teaching-2608-IAIFI/lecture1.html) by Christoph Weniger
 
 ### Optional readings
 
