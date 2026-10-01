@@ -27,7 +27,7 @@ Details about the meeting format will be posted here when available.
 ::: {.home-section}
 ## Schedule and readings
 
-We meet weekly on Fridays from 4 p.m. to 5 p.m. The [schedule](schedule.qmd) and [reading materials](readings.qmd) will be updated as the group progresses.
+We meet weekly on Fridays from 4 p.m. to 5 p.m. The [reading materials](readings.qmd) will be updated as the group progresses.
 :::
 :::
 
