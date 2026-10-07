@@ -1,6 +1,6 @@
-# Applied & Bayesian Reading Group website
+# DoSS Reading Group website
 
-This repository contains the official website for the **Applied & Bayesian Reading Group** in the Department of Statistical Sciences at the University of Toronto. It is a static [Quarto](https://quarto.org/) website published with GitHub Pages.
+This repository contains the official website for the **Statistical Methodology Reading Group** in the Department of Statistical Sciences at the University of Toronto. It is a static [Quarto](https://quarto.org/) website published with GitHub Pages.
 
 ## Work on the site locally
 
