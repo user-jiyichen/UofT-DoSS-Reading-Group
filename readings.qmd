@@ -20,8 +20,14 @@ Readings are recorded below as the term progresses.
 
 ### Main readings
 
-- [High-Dimensional Data Analysis: The Curses and Blessings of Dimensionality](https://dl.icdst.org/pdfs/files/236e636d7629c1a53e6ed4cce1019b6e.pdf) by David Donoho
+- [High dimensions: Curse or Blessing for Statisticians?](assets/SMRG__High_dims_slides.pdf) by Luis Sierra Muntané
 
 ### Optional readings
 
-- 
+- [High-Dimensional Data Analysis: The Curses and Blessings of Dimensionality](https://dl.icdst.org/pdfs/files/236e636d7629c1a53e6ed4cce1019b6e.pdf) by David Donoho
+
+## Week 3
+
+### Main readings
+
+- [ABI and Neural SBI IAIFI summer school slides](https://cweniger.github.io/teaching-2608-IAIFI/lecture1.html) by Christoph Weniger
