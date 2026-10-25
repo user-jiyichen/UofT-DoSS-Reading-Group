@@ -15,13 +15,13 @@ This is the webpage for the Statistical Methodology Reading Group, hosted in the
 ::: {.home-section}
 ## About
 
-An informal channel for discussing literature and exchanging ideas in (applied and Bayesian) statistical methodology. Open to all graduate students, postdocs, and faculty.
+An informal channel for discussing literature and exchanging ideas in (applied and Bayesian) statistical methodology. Open to all graduate students, postdocs, and faculty members.
 :::
 
 ::: {.home-section}
 ## Format
 
-Details about the meeting format will be posted here when available.
+Either a slide presentation or chalk talk is welcome!
 :::
 
 ::: {.home-section}
