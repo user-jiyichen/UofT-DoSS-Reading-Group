@@ -40,7 +40,7 @@ Readings are recorded below as the term progresses.
 
 ### Main readings
 
-- High-dimensional central limit theorem (slides to be shared soon)
+- [High-dimensional central limit theorem](https://arxiv.org/pdf/2205.09691)
 
 ## Week 5
 
