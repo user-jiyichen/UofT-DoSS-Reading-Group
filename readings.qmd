@@ -53,3 +53,10 @@ Readings are recorded below as the term progresses.
 
 - [BayesFlow 2: Multi-Backend Amortized Bayesian  Inference in Python](https://arxiv.org/abs/2602.07098)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+## Week 6
+
+### Main readings
+[Slides](https://github.com/FurkanDanisman/tabpfn-reading-group/blob/main/TabPFN_Reading_Group.pdf) by [Furkan Danisman](https://furkandanisman.github.io/)
+
+### Optional readings
